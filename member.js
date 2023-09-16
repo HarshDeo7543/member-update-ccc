@@ -2,16 +2,16 @@ export const club_member_details = [
 
   {
     id: 8,
-    firstname: 'Asish',
-    fullname: 'Asish Panigrahi',
+    firstname: 'Harsh',
+    fullname: 'Harsh Deo',
     description: `interest for web development and Cloud Computing.`,
     desgination: 'Web Developer',
-    member_type: 'Operational Lead',
+    member_type: 'OCore Member',
     member:"student",
-    profile_img: 'https://avatars.githubusercontent.com/u/95563674?v=4',
-    linkedln_link: `https://www.linkedin.com/in/asish-panigrahi-a43439175`,
-    github_link: `https://github.com/Tugi01`,
-    year: '2020'
+    profile_img: 'https://avatars.githubusercontent.com/u/145219386?v=4',
+    linkedln_link: `www.linkedin.com/in/harsh-deo-069198226`,
+    github_link: `https://github.com/HarshDeo7543`,
+    year: '2022'
   },
   {
     id: 12,
